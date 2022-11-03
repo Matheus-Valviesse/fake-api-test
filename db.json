@@ -1,0 +1,116 @@
+{
+    "jogos": [
+      {
+        "name": "Dead Island",
+        "price": "299",
+        "desc": "10",
+        "description": "Um vírus letal está se espalhando por Los Angeles e transformando os habitantes em zumbis. Descubra a verdade por trás disso e sobre quem você é depois de levar mordidas, se infectar e se tornar mais que apenas imune. ",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/V6WJkRhfNIQ3ePfAmrLSfGng.png",
+        "id": 0
+      },
+      {
+        "name": "Fallout 3 - GOTY",
+        "price": "39.99",
+        "desc": "70",
+        "description": "Crie um personagem de sua escolha e mergulhe em um mundo pós-apocalíptico, onde você precisará lutar pela sua sobrevivência a cada minuto.",
+        "img": "https://cdn1.epicgames.com/offer/fa702d34a37248ba98fb17f680c085e3/EGS_Fallout3GameoftheYearEdition_BethesdaGameStudios_S2_1200x1600-e2ba392652a1f57c4feb65d6bbd1f963",
+        "id": 1
+      },
+      {
+        "name": "Fallout 4 - GOTY",
+        "price": "119.99",
+        "desc": "30",
+        "description": "A história começa no em outubro de 2077, com os Estados Unidos na iminência de sofrer um ataque nuclear chinês. Logo após montar seu personagem – masculino ou feminino – em uma casa digna dos anos 50, você descobre que o ataque deixou de ser uma mera suspeita e já é uma cruel realidade.19",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2500/4GZyUQ1bHTjICP6GCRG7f65n.png",
+        "id": 2
+      },
+      {
+        "name": "Horizon Forbidden West",
+        "price": 249.9,
+        "desc": 20,
+        "description": "Explore terras distantes, enfrente máquinas maiores e mais imponentes, e encontre novas tribos incríveis ao retornar o futuro distante e pós-apocalíptico de Horizon.A terra está morrendo! Tempestades implacáveis e uma praga incontrolável devastam o que sobrou da humanidade enquanto máquinas assustadoras vagam por territórios próximos. A vida na Terra segue rumo à outra extinção, e ninguém sabe o porquê.Cabe a Aloy descobrir os segredos por trás dessas ameaças e restaurar a ordem e equilíbrio ao mundo. Ao longo do caminho, ela reencontrará velhos amigos, forjará alianças com novas facções e descobrirá o legado do passado antigo enquanto tenta se manter um passo à frente de um novo inimigo.",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/ki0STHGAkIF06Q4AU8Ow4OkV.png",
+        "id": 3
+      },
+      {
+        "name": "Dead Island Definitive Edition",
+        "price": 39.99,
+        "desc": 80,
+        "description": "O jogo se passa na ilha ficcional de Banoi, na costa da Nova Guiné, local que possui um grande resort tropical. O jogo começa quando os personagens são acordados, de ressaca, na manhã após uma longa festa, por uma voz do sistema de emergência, que os ajuda a fugir do hotel. Lá, eles descobrem que a população da ilha foi infectada por um vírus, que os transformou em zumbis",
+        "img": "https://jovemnerd.com.br/wp-content/uploads/Dead-Island-PC.jpg",
+        "id": 4
+      },
+      {
+        "name": "Dying Light Enhanced Edition",
+        "price": 625,
+        "desc": 90,
+        "description": "Vagueie por um mundo infectado onde apenas o mais forte sobrevive. Domine suas habilidades de combate para lutar contra monstros de todos os tipos, de humanos a mortos-vivos. Pratique parkour pelos telhados, crie armas e ajude outros sobreviventes enquanto enfrenta seus próprios pesadelos!",
+        "img": "https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightEnhancedEdition_Techland_Editions_S2_1200x1600-dc69fc41d834a6e69090fba163f1edd0",
+        "id": 5
+      },
+      {
+        "name": "Resident Evil 2",
+        "price": 139.9,
+        "desc": 70,
+        "description": "Resident Evil 2, chamado no Japão de Biohazard RE:2, é um jogo eletrônico de survival horror desenvolvido e publicado pela Capcom, sendo um remake do jogo original de 1998",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/c/c5/RE2_remake_PS4_cover_art.png",
+        "id": 6
+      },
+      {
+        "name": "God Of War Ragnarok",
+        "price": 349.9,
+        "desc": 10,
+        "description": "God of War Ragnarök é um futuro jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment. Está programado para ser lançado em 9 de novembro de 2022 para PlayStation 4 e PlayStation 5.",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png",
+        "id": 7
+      },
+      {
+        "name": "Dead Space Edição Digital Deluxe",
+        "price": "299",
+        "desc": "15",
+        "description": "Isaac Clarke é um engenheiro comum com a missão de consertar a nave USG Ishimura. Porém, logo descobre que a tripulação foi massacrada e que sua amada parceira, Nicole, está perdida em algum lugar da nave.\nSozinho e apenas com suas habilidades e ferramentas de engenharia à disposição, Isaac corre para encontrar Nicole enquanto desvenda o mistério aterrorizante sobre o que aconteceu a bordo da Ishimura. Preso com criaturas hostis, Isaac encara uma batalha pela sobrevivência.",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/3WO7sM0ZMk8sz7gPr2DEs6fu.png",
+        "id": 8
+      },
+      {
+        "name": "",
+        "price": null,
+        "desc": null,
+        "description": "",
+        "img": "",
+        "id": 9
+      },
+      {
+        "name": "",
+        "price": null,
+        "desc": null,
+        "description": "",
+        "img": "",
+        "id": 10
+      },
+      {
+        "name": "",
+        "price": null,
+        "desc": null,
+        "description": "",
+        "img": "",
+        "id": 11
+      },
+      {
+        "name": "",
+        "price": null,
+        "desc": null,
+        "description": "",
+        "img": "",
+        "id": 12
+      },
+      {
+        "name": "",
+        "price": null,
+        "desc": null,
+        "description": "",
+        "img": "",
+        "id": 13
+      }
+    ]
+  }
