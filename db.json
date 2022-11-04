@@ -106,5 +106,26 @@
         "games":["Dead Space Edição Digital Deluxe", "Dead Island Definitive Edition","Fallout 3 - GOTY"],
         "idUser": 2
       }
+    ],
+    "electronics":[
+      {
+        "nameEle":"PC Gamer Mancer, Intel Core I7, GTX 1650 4GB, 16GB DE RAM, SSD 240GB, Fonte 500W 80 Plus",
+        "color":["black"],
+        "motherboard":" H61",
+        "cpuModel":"Intel Core i7 - 3.4 GHz",
+        "memory":"16GB de Ram DDR 4",
+        "ssd":"SSD 240GB",
+        "videoCard":"GTX 1650 4GB"
+      },
+      {
+        "nameEle":"COMPUTADOR PICHAU GAMER KAGYU, AMD RYZEN 3 3200G, 8GB DDR4, SSD 240GB",
+        "color":["black","red"],
+        "motherboard":"Placa Mae Biostar A320MH DDR4 Socket AM4 Chipset AMD A320",
+        "cpuModel":"AMD Ryzen 3 3200G",
+        "memory":"8GB de Ram DDR4",
+        "ssd":"Team Group GX1 240GB 2.5 Sata III, T253X1240G0C101B",
+        "videoCard":""
+      }
+     
     ]
   }
