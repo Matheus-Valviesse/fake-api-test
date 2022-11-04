@@ -49,7 +49,7 @@
         "id": 5
       },
       {
-        "name": "Resident Evil 2",
+        "name": "Resident Evil 2 - REMAKE",
         "price": 139.9,
         "desc": 70,
         "description": "Resident Evil 2, chamado no Japão de Biohazard RE:2, é um jogo eletrônico de survival horror desenvolvido e publicado pela Capcom, sendo um remake do jogo original de 1998",
@@ -71,46 +71,40 @@
         "description": "Isaac Clarke é um engenheiro comum com a missão de consertar a nave USG Ishimura. Porém, logo descobre que a tripulação foi massacrada e que sua amada parceira, Nicole, está perdida em algum lugar da nave.\nSozinho e apenas com suas habilidades e ferramentas de engenharia à disposição, Isaac corre para encontrar Nicole enquanto desvenda o mistério aterrorizante sobre o que aconteceu a bordo da Ishimura. Preso com criaturas hostis, Isaac encara uma batalha pela sobrevivência.",
         "img": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/3WO7sM0ZMk8sz7gPr2DEs6fu.png",
         "id": 8
+      }
+    ],
+    "users":[
+      {
+        "nameUser": "valviesse",
+        "email": "valviesse@gmail.com",
+        "password":123456,
+        "cpf": "111.111.111-11",
+        "games":["dead insland 2", "Dying Light Enhanced Edition"],
+        "idUser": 1
       },
       {
-        "name": "",
-        "price": null,
-        "desc": null,
-        "description": "",
-        "img": "",
-        "id": 9
+        "nameUser": "marcelo",
+        "email": "marcelo.souto@gmail.com",
+        "password":816825,
+        "cpf": "111.000.111-00",
+        "games":["Resident Evil 2 - REMAKE", "Dying Light Enhanced Edition","Fallout 3 - GOTY"],
+        "idUser": 2
       },
       {
-        "name": "",
-        "price": null,
-        "desc": null,
-        "description": "",
-        "img": "",
-        "id": 10
+        "nameUser": "yasmin",
+        "email": "yasmin@outlook.com",
+        "password":897236,
+        "cpf": "666.999.666-99",
+        "games":["Horizon Forbidden West", "Dying Light Enhanced Edition","God Of War Ragnarok"],
+        "idUser": 2
       },
       {
-        "name": "",
-        "price": null,
-        "desc": null,
-        "description": "",
-        "img": "",
-        "id": 11
-      },
-      {
-        "name": "",
-        "price": null,
-        "desc": null,
-        "description": "",
-        "img": "",
-        "id": 12
-      },
-      {
-        "name": "",
-        "price": null,
-        "desc": null,
-        "description": "",
-        "img": "",
-        "id": 13
+        "nameUser": "milena",
+        "email": "milena@ig.com.bt",
+        "password":222333,
+        "cpf": "684.135.780-00",
+        "games":["Dead Space Edição Digital Deluxe", "Dead Island Definitive Edition","Fallout 3 - GOTY"],
+        "idUser": 2
       }
     ]
   }
